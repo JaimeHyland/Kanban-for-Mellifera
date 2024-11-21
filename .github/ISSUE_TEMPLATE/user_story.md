@@ -1,5 +1,5 @@
 ---
-name: User Story Template
+name: User Story
 about: This template is used to help the developer to set up User Stories on the Kanban
 title: 'USER STORY: [title]'
 labels: enhancement
